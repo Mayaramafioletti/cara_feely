@@ -69,7 +69,7 @@ Para mais informações, entre em contato com nossa equipe:
 
 - [Agnes Ruescas](https://www.linkedin.com/in/agnesruescas/) 
 - [José Victor Leles](https://www.linkedin.com/in/josebleles/) 
-- [Kauan Cleto da Silva] (https://www.linkedin.com/in/kauancletosilva/). 
+- [Kauan Cleto da Silva](https://www.linkedin.com/in/kauancletosilva/). 
 - [Mayara C. Mafioletti](https://github.com/Mayaramafioletti/)
 - [Wilker Santos](https://www.linkedin.com/in/wilker-santos-ba0a16181/) 
 
